@@ -35,6 +35,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 # Observation and Calculation
 <img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
 
+<img width="1225" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2ed5b24-4d06-4d68-9fc4-d3d9fd98dc97" />
 
 ---
 
